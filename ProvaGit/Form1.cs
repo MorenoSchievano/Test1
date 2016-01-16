@@ -24,7 +24,7 @@ namespace ProvaGit
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("HI by Moreno");
+            MessageBox.Show("Moreno test Edit");
         }
 
         private void button2_Click(object sender, EventArgs e)
